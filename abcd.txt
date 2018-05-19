@@ -15,3 +15,4 @@ upma
 fish
 chicken
 mutton
+kebab
